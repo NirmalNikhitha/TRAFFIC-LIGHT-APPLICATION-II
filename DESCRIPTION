@@ -1,0 +1,13 @@
+OVERVIEW:
+This repository contains the code and schematics for a 4-way traffic light control system implemented using the PIC16F877A microcontroller. The system is designed to manage traffic flow at an intersection, ensuring safe and efficient passage for vehicles in all four directions.
+
+FEATURES:
+> 4-way traffic control: Manages traffic lights for four directions.
+> Time-based signal control: Configurable timers for each traffic light phase (green, yellow, and red).
+> Pedestrian crossing support: Includes signals for pedestrian crossings.
+> Emergency mode: Allows for manual override in case of emergencies.
+> Low power consumption: Optimized for minimal power usage.
+
+COMPONENTS:
+> PIC16F877A microcontroller: The core of the traffic control system.
+> LEDs: Represent the traffic lights (red, yellow, green).
